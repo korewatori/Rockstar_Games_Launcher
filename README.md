@@ -1,7 +1,7 @@
 # Rockstar_Games_Launcher
-Rockstar Games Launcher Open Source in Csharp Windows Form
+Rockstar Games Launcher (forked from OldModz95-YTB)
 
-
+Translation Progress: 0%
 
 <img alt="ProtonDev - OldModz95" src="https://i.imgur.com/PX6mxwq.png"/>
 <br><br><br>
