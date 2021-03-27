@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rockstar Launcher", "Rockstar Launcher\Rockstar Launcher.csproj", "{8C7610D7-30A9-492E-8B1B-11CA0A756123}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rockstar Launcher", "Rockstar Launcher.csproj", "{8C7610D7-30A9-492E-8B1B-11CA0A756123}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
